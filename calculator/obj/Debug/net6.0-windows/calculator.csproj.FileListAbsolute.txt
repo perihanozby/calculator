@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\calculator\calculator\obj\Debug\net6.0-windows\calculator.Form1.resources
+C:\Users\ASUS\source\repos\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\calculator\calculator\obj\Debug\net6.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\calculator\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\calculator\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.CoreCompileInputs.cache
